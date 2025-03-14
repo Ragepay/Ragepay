@@ -2,7 +2,7 @@
 
 # 🚀 Programador Full Stack | Apasionado por el Backend  
 
-📝 **Técnico Universitario en Programación**  
+📝 **Técnico Universitario en Programación por la UTN**  
 📝 **Desarrollador Full Stack certificado por CoderHouse**  
 
 💡 Apasionado por la tecnología y el desarrollo de **APIs y software**, con un enfoque especializado en **Backend**. Me gusta diseñar **soluciones eficientes y escalables**, aplicando **buenas prácticas**, **testeo unitario y de integración**, y una documentación clara y estructurada.  
@@ -38,7 +38,8 @@
 ### 📫 Me pueden contactar por:  
 📧 **Email:** benjapey99@gmail.com  
 💼 **LinkedIn:** [Benjamin Peyraga](https://www.linkedin.com/in/benjamin-peyraga-53812a163/)  
-🐙 **Instagram:** [benjapeyraga](https://www.instagram.com/benjapeyraga/)  
+💼 **iPortafolio:** [iPortafolio-Benjamin-Peyraga](https://ragepay.github.io/iPortafolio-Benjamin-Peyraga/)
+🐙 **Instagram:** [benjapeyraga](https://www.instagram.com/benjapeyraga/) 
 
 ---
 
