@@ -4,12 +4,12 @@
 
 📝 **Técnico Universitario en Programación**  
 📝 **Desarrollador Full Stack certificado por CoderHouse**  
+
 💡 Apasionado por la tecnología y el desarrollo de **APIs y software**, con un enfoque especializado en **Backend**. Me gusta diseñar **soluciones eficientes y escalables**, aplicando **buenas prácticas**, **testeo unitario y de integración**, y una documentación clara y estructurada.  
 
 📌 **Experiencia en arquitectura de software, escalabilidad, APIs RESTful, CRUD, endpoints optimizados y metodologías ágiles.**  
 
-
-👨‍💻 **Conocimientos:**  
+# 👨‍💻 **Conocimientos:**  
 ✅ **Arquitectura de software**  
 ✅ **Documentación de APIs**  
 ✅ **Testeo y aseguramiento de calidad**  
@@ -37,7 +37,7 @@
 ### 📫 Me pueden contactar por:  
 📧 **Email:** benjapey99@gmail.com  
 💼 **LinkedIn:** [Benjamin Peyraga](https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/benjamin-peyraga-53812a163/))  
-🐙 **Instagram:** [benjapeyraga](https://github.com/tu-usuario](https://www.instagram.com/benjapeyraga/))  
+🐙 **Instagram:** [benjapeyraga](https://www.instagram.com/benjapeyraga/)  
 
 ---
 
