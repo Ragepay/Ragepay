@@ -46,10 +46,7 @@ Sistemas que uso o que usan clientes todos los días.
 
 ---
 
-### 🧪 Proyectos propios y prácticas
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
+---|---|
 | **CapitalSync** | Gastos e inversiones en un solo lugar (ARS/USD). Importa el settlement de Mercado Pago con deduplicación y el export de Balanz; cotizaciones en vivo desde la API de IOL | Node · Express · Sequelize · React · JWT |
 | **ERP Granos** | Compra/venta de granos por tonelada: boletas de camiones, pesajes, pagos USD→BOB y dashboard de deudas | MERN · monorepo con npm workspaces |
 | **[Herramientas Morelli](https://github.com/Ragepay/E-Commerce_Morelli)** | E-commerce de herramientas y materiales de construcción | Express · Handlebars · MongoDB Atlas |
