@@ -36,7 +36,6 @@ Sistemas que uso o que usan clientes todos los días.
 |---|---|---|
 | **[peycode.dev](https://peycode.dev)** 🔒 | Mi emprendimiento. Sitio con SEO técnico y CRM propio: clientes, proyectos, costos, cotizador y visitas, con login 2FA | Next.js · PostgreSQL · Drizzle |
 | **CRM Estudio Tuculet** 🔒 | CRM para estudio contable: cartera de clientes, control mensual de IVA/IIBB, honorarios con historial, cuenta corriente y cobranzas, comunicaciones por email y WhatsApp. Claves de organismos encriptadas y login con Google. +450 endpoints, 100 tablas, 9 integraciones (ARCA, ARBA, WhatsApp Cloud API, Gmail, Claude) y +1.000 verificaciones automáticas | Node · Express · MySQL · React · Playwright |
-| **[ICE San Martín 19](https://www.icesanmartin19.com)** 🔒 | App de iglesia: landing pública, área de miembros y panel admin. Detección de transmisión en vivo de YouTube, cancionero con acordes, ofrendas con Mercado Pago | React · Vite · Tailwind · TanStack Query · Express · MySQL |
 | **Gestión de Obras — Zukowski** 🔒 | Control de obras de una constructora: gastos con facturas, IVA y rentabilidad por obra. PWA que funciona sin señal, asistente con IA de 18 herramientas y lectura de facturas. Reemplazó el Excel | Express · Sequelize · MySQL · React · Claude · Cloudinary |
 | **[Servicios Industriales Zukowski](https://siz.com.ar/)** 🔒 | Sitio institucional conectado al sistema de gestión: las 13 obras y 73 fotos se publican desde la app | Next.js · Cloudinary · Resend |
 | **[Somos Esto](https://somosesto.com.ar)** 🔒 | Sitio de un streaming que se actualiza solo: detecta episodios nuevos en YouTube y los resume con IA (13 episodios, ~28 h, 104 capítulos) | Astro · Claude API · Vercel |
@@ -53,7 +52,6 @@ Sistemas que uso o que usan clientes todos los días.
 |---|---|---|
 | **CapitalSync** | Gastos e inversiones en un solo lugar (ARS/USD). Importa el settlement de Mercado Pago con deduplicación y el export de Balanz; cotizaciones en vivo desde la API de IOL | Node · Express · Sequelize · React · JWT |
 | **ERP Granos** | Compra/venta de granos por tonelada: boletas de camiones, pesajes, pagos USD→BOB y dashboard de deudas | MERN · monorepo con npm workspaces |
-| **FaceOff** 🔒 | App de duelos 1v1 y encuestas con ranking en tiempo real. Auth con Passport + Google OAuth, logs con Winston, Docker | Express · Sequelize · MySQL · Docker |
 | **[Herramientas Morelli](https://github.com/Ragepay/E-Commerce_Morelli)** | E-commerce de herramientas y materiales de construcción | Express · Handlebars · MongoDB Atlas |
 | **[backend3-proyect-peyraga](https://github.com/Ragepay/backend3-proyect-peyraga)** | Proyecto final de Backend III: testing, mocking, escalabilidad y documentación con Swagger | Node · Express · Mongo · Docker |
 | **[checkpoint-zone](https://github.com/Ragepay/checkpoint-zone)** · **[breakandfocus](https://github.com/Ragepay/breakandfocus)** · **[batallaNaval](https://github.com/Ragepay/batallaNaval)** | Proyectos de práctica y experimentos | JS · TypeScript |
