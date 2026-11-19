@@ -40,7 +40,7 @@ Sistemas que uso o que usan clientes todos los días.
 | **[Servicios Industriales Zukowski](https://siz.com.ar/)** 🔒 | Sitio institucional conectado al sistema de gestión: las 13 obras y 73 fotos se publican desde la app | Next.js · Cloudinary · Resend |
 | **[Somos Esto](https://somosesto.com.ar)** 🔒 | Sitio de un streaming que se actualiza solo: detecta episodios nuevos en YouTube y los resume con IA (13 episodios, ~28 h, 104 capítulos) | Astro · Claude API · Vercel |
 | **[Pachulí Parfum](https://www.pachuliparfum.com)** 🔒 | E-commerce de perfumería con checkout íntegro por WhatsApp | React · Vite |
-| **[Finantips 2.0](https://github.com/Ragepay/Finantips-2.0)** | Calculadoras financieras para Argentina: sueldo neto, Impuesto a las Ganancias, plazo fijo, cuotas vs. contado. Cotizaciones e indicadores en vivo vía API | JS · SCSS · APIs públicas |
+| **[Finantips 2.0](https://finantips.netlify.app/)** 🔒 | Calculadoras financieras para Argentina: sueldo neto, Impuesto a las Ganancias, plazo fijo, cuotas vs. contado. Cotizaciones e indicadores en vivo vía API | JS · SCSS · APIs públicas |
 
 <sub>🔒 = repositorio privado (código de clientes / producto propio). Puedo mostrar demo y recorrido técnico a pedido.</sub>
 
